@@ -78,5 +78,4 @@
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31eagesq2nhafxjvkpz7vgxkwj24&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
