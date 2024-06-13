@@ -59,10 +59,7 @@
 <p align="left">
 <a href="https://twitter.com/@EvilOneEZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@EvilOneEZ" height="30" width="40" /></a><a href="https://www.youtube.com/c/@Evilone66" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="@Evilone66" height="30" width="40" /></a><a href="https://discord.gg/https://discord.gg/XaQdNazp" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="https://discord.gg/XaQdNazp" height="30" width="40" /></a><a href="https://instagram.com/jones_lex_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="jones_lex_7" height="30" width="40" /></a></p>
 
-Support
-Are you using the tool and happy with it to create your GitHub Repository?
 
-Please D
 
 
 
