@@ -71,11 +71,38 @@
 <p align="left">
 <a href="https://twitter.com/@EvilOneEZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@EvilOneEZ" height="30" width="40" /></a><a href="https://www.youtube.com/c/@Evilone66" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="@Evilone66" height="30" width="40" /></a><a href="https://discord.gg/https://discord.gg/XaQdNazp" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="https://discord.gg/XaQdNazp" height="30" width="40" /></a><a href="https://instagram.com/jones_lex_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="jones_lex_7" height="30" width="40" /></a></p>
 
-
-
+<div align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )                                        @@
+@@   / /     \ \                                       @@
+@@   \ |  ,  | /                                       @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+  
 
 ### SPOTIFY  
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31eagesq2nhafxjvkpz7vgxkwj24&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 <br />
 
+
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
